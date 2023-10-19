@@ -1,4 +1,4 @@
-// library supported by OpenMP library
+// Hello, World! by OpenMP!
 #include <cstdio>
 // OpenMP library
 #include <omp.h>
