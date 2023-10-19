@@ -1,3 +1,3 @@
 # ignore all logs
-*.vscode
-*.exe
+/.vscode
+/.exe
