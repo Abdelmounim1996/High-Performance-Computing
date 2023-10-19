@@ -1,3 +1,4 @@
+// for parallel
 #include <cstdio>
 #include <omp.h>
 
